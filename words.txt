@@ -1,0 +1,1 @@
+good|2|happy|3|nice|2|pleasant|1|excited|4|fun|3|great|4|awesome|4|amazing|5|ecstatic|4|dream|1|greatest|5|better|3|best|5|bad|-2|sad|-3|mean|-4|horrible|-4|boring|-1|horrendous|-5|toxic|-4|angry|-3|nightmare|-2|annoying|-1|worse|-4|worst|-5
